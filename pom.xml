@@ -14,7 +14,7 @@
 	<name>beerapi</name>
 	<description>API de estoque de cerveja</description>
 	<properties>
-		<java.version>14</java.version>
+		<java.version>1.8</java.version>
 		<org.mapstruct.version>1.4.2.Final</org.mapstruct.version>
 	</properties>
 	<dependencies>
